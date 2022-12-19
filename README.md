@@ -1,3 +1,6 @@
+# NOTE: Development of this project has been moved to [CLIP-HPC org.](https://github.com/CLIP-HPC/SlurmCommander)
+
+This is now an archive. For new developments, go [here](https://github.com/CLIP-HPC/SlurmCommander)
 
 # SlurmCommander
 
